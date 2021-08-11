@@ -1,6 +1,7 @@
 
   # README File Generator
 
+  ![ Alt text](C:\Users\16197\Downloads\Untitled_ Aug 10, 2021 11_16 PM.gif) / ! [](C:\Users\16197\Downloads\Untitled_ Aug 10, 2021 11_16 PM.gif)
   renderLicenseBadge()
   renderLicenseLink()
   renderLicenseSection()
